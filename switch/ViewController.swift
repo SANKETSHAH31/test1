@@ -28,7 +28,7 @@ class ViewController: UIViewController {
         {
             self.view.backgroundColor = #colorLiteral(red: 1, green: 1, blue: 1, alpha: 1)
             lblTapped.text = "Light is On"
-            lblTapped.textColor = #colorLiteral(red: 0.1960784346, green: 0.3411764801, blue: 0.1019607857, alpha: 1)
+            lblTapped.textColor = #colorLiteral(red: 1, green: 0.5568175053, blue: 0.6564764473, alpha: 1)
         }
         else
         {
